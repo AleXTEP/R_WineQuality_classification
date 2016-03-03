@@ -4,7 +4,7 @@
 #                                                                                                   #
 #####################################################################################################
 
-
+#data from https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 getwd(); 
 setwd("C:/Users/Utilisateur/Desktop/....")
