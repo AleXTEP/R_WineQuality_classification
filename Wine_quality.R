@@ -7,7 +7,7 @@
 
 
 getwd(); 
-setwd("C:/Users/Utilisateur/Desktop/TIDE/ROSSI")
+setwd("C:/Users/Utilisateur/Desktop/....")
 wine = read.csv("C:/Users/Utilisateur/Desktop/wine/wine.csv", sep = ";")
 is.factor(wine$quality);wine$quality = as.factor(wine$quality); is.factor(wine$quality)
 
